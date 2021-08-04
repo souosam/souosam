@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @souosam (Samuel Almeida)
 - 👀 I’m interested in Html and studying it
 - 🌱 I’m currently learning html
-- 📫 How to reach me: 
+- 📫 How to reach me:                                                                         
 e-mail: samuel.armeida@gmail.com  
 Discord: souosam#1135
 
