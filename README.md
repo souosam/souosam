@@ -1,7 +1,11 @@
-- 👋 Hi, I’m @souosam
-- 👀 I’m interested in html and studying
+- 👋 Hi, I’m @souosam (Samuel Almeida)
+- 👀 I’m interested in Html and studying it
 - 🌱 I’m currently learning html
-- 📫 How to reach me: samuel.armeida@gmail.com <- e-mail   souosam#1135 <- Discord
+- 📫 How to reach me: 
+e-mail: samuel.armeida@gmail.com  
+Discord: souosam#1135
+
+Thx for reading. 
 
 <!---
 souosam/souosam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
