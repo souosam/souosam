@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @souosam (Samuel Almeida), I'm brazilian, I have 26 and I'm a Control and Automation Engineering student at Universidade Paulista, and I study programming separately.
-- 👀 I'm interested in electronic music (Techno), other than that I really enjoy studying.
+- 👋 Hi, I’m @souosam (Samuel Almeida). I’m a 26-year-old Brazilian Control and Automation Engineering student and Project Manager. I also study programming independently.
 - 🌱 I’m currently learning AI,
 - 📫 How to reach me:                                                                         
 Discord: souosam
